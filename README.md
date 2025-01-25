@@ -1,7 +1,7 @@
 # OSEP
 This will eventually become an OSEP code repository. 
 For now I am placing 2 python scripts to help out with encrypting your shellcode.  
-You have the option of using aes256.py OR xor.py depending what you are using for your c# shellcode!
+You have the option of using aes256 OR xor depending what you are using for your c# shellcode!
 
 
 I've seen other repos that made the same tool but in c#, I figured i'd try and do it in python and make it a bit easier to copy and paste over to your code!
