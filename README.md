@@ -48,5 +48,9 @@ AES256.py uses cryptodome for AES and padding. In order to install you need to r
 - Shellcode has been formatted to paste as 1 line when you copy it over to visual studio code.
 - Copy key and shellcode into your c# program and enjoy!
 
+**DISCLAIMER**
+
+This script is intended for ethical purposes, such as penetration testing, and must comply with legal and ethical guidelines.
+
 
 
