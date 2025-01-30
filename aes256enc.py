@@ -1,5 +1,5 @@
 import os
-from Cryptodome.Cipher import AES
+from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad
 
 def encrypt_shell(buf):
