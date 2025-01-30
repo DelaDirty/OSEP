@@ -1,5 +1,5 @@
 ## AES256enc.py – AES-256 Encryption 
-This script encrypts **C# shellcode** using **AES-256 in CBC mode**, ensuring payload confidentiality.  
+This script encrypts C# shellcode using AES-256 in CBC mode, ensuring payload confidentiality.  
 
 ### Output Format:  
 - **AES Key** – Generated AES key in `xx-xx` format for C# integration.  
