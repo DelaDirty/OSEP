@@ -1,10 +1,10 @@
 This script encrypts C# shellcode using a random single-byte XOR key, providing lightweight obfuscation against basic static analysis.
 Features:
 
-✅ Generates a random XOR key for every execution.
-✅ Encodes shellcode using XOR obfuscation.
-✅ Formats output as a C# byte array for seamless integration.
-Usage Example
+- Generates a random XOR key for every execution.
+- Encodes shellcode using XOR obfuscation.
+- Formats output as a C# byte array for seamless integration.
+
 
 1️⃣ Generate Shellcode (C# Format)
 ```bash
