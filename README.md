@@ -1,13 +1,3 @@
-# OSEP
-This will eventually become an OSEP code repository. 
-For now I am placing 2 python scripts to help out with encrypting your shellcode.  
-You have the option of using aes256 OR xor depending what you are using for your c# shellcode!
-
-
-I've seen other repos that made the same tool but in c#, I figured i'd try and do it in python and make it a bit easier to copy and paste over to your code!
-
-
-
   ## AES256enc.py What does it do.
 This Python script encrypts c# shellcode using AES (Advanced Encryption Standard) in CBC (Cipher Block Chaining) mode.  
 It generates a random AES key and IV (Initialization Vector), encrypts the shellcode, and outputs the encrypted data in a format compatible with C# applications.
